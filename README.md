@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Hallole</h1>
 <h3 align="center">A passionate Software developer</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Rohithallole/Rohithallole/assets/147651705/ba89c579-dbf3-454d-858d-c560b1aec271)
-">
-- 🔭 PROJECTS **Search For Public Toilet [SFPT]**
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🌱 MY SKILLS **Core Java JavaScript SQL CSS JDBC HTML Spring MySql spring Boot Angular Hibernate**
 
@@ -13,8 +11,6 @@
 - 📫 How to reach me **hallolerohit@gmail.com**
 
 - 📄MY RESUME [https://drive.google.com/file/d/1ZOVc3PvIHVR2tkkA2VXoxL0dlKqi3W_M/view?usp=drivesdk](https://drive.google.com/file/d/1ZOVc3PvIHVR2tkkA2VXoxL0dlKqi3W_M/view?usp=drivesdk)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
